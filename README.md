@@ -6,7 +6,7 @@ A simple program illustrates the basic idea of query language such as SQL, which
 ### Prerequisites
 
 * Python 3.x
-* Termial (in Unix) OR PowerShell (in Windows)
+* Terminal (in Unix) OR PowerShell (in Windows)
 
 ### Download and run the program
 ```
@@ -17,8 +17,8 @@ $ cd ~
 $ git clone https://github.com/jellycsc/twitter-like-data-query.git
 $ cd twitter-like-data-query/
 
-# Let's start playing
-$ python3 twitterverse_program.py 
+# Let's start
+$ python3 twitterverse_program.py
 ```
 
 ## Example
@@ -31,14 +31,14 @@ name: Alex D
 location: Abbottsford, British Columbia
 website: www.abbotsford.ca
 bio:
-Love the outdoors, even 
+Love the outdoors, even
 in the rain.
 following: ['tomfan']
 ----------
 b
 name: Benny Lewis
 location: Bankok
-website: 
+website:
 bio:
 
 following: ['tomfan']
@@ -51,7 +51,7 @@ tomCruise
 Tom Cruise
 Los Angeles, CA
 http://www.tomcruise.com
-Official TomCruise.com crew tweets. We love you guys! 
+Official TomCruise.com crew tweets. We love you guys!
 Visit us at Facebook!
 ENDBIO
 katieH
@@ -78,7 +78,7 @@ NicoleKidman
 Nicole Kidman
 Oz
 
-At my house celebrating Halloween! I Know Haven't been on like 
+At my house celebrating Halloween! I Know Haven't been on like
 years So Sorry,Be safe And have fun tonight
 ENDBIO
 END
@@ -91,7 +91,7 @@ END
 | ---------------- | ------------------------------------------ | -------------------------
 | Chenjie Ni       | [jellycsc](https://github.com/jellycsc)    | nichenjie2013@gmail.com
 
-## Thoughts and future improvements 
+## Thoughts and future improvements
 
 * The only piece missing here is how to get data directly from Twitter server, rather than through a static data file.
 
@@ -106,5 +106,5 @@ END
 Details are described [here](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project).
 
 ## Bug Reporting
-Please log bugs under [Issues](https://github.com/jellycsc/twitter-like-data-query/issues) tab on github.  
+Please log bugs under [Issues](https://github.com/jellycsc/twitter-like-data-query/issues) tab on Github.  
 OR you can shoot an email to <nichenjie2013@gmail.com>
