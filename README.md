@@ -107,4 +107,4 @@ Details are described [here](https://git-scm.com/book/en/v2/GitHub-Contributing-
 
 ## Bug Reporting
 Please log bugs under [Issues](https://github.com/jellycsc/twitter-like-data-query/issues) tab on Github.  
-OR you can shoot an email to <nichenjie2013@gmail.com>
+OR you can shoot an email to <nichenjie2013@gmail.com> 
