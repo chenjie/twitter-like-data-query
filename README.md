@@ -1,5 +1,5 @@
 # twitter-like-data-query
-A simple program illustrates the basic idea of query language such as SQL, which is widely used in industrial relational databases. This plays an important role in retrieving customized data from huge amount of information based on the data query.
+A simple program illustrates the basic idea of query language such as SQL, which is widely used in industrial relational databases. This plays an important role in efficiently retrieving customized data from huge amount of information based on the data query.
 
 ## Getting Started
 
